@@ -6,8 +6,8 @@ This repository hosts the compiled release files (Android APK & PC EXE) for the 
 
 You can find the latest releases in the `releases/` directory:
 
-- 📱 **Android App (APK):** [Download Latest APK](https://github.com/hmongcodequest/steering-ets2-controller/raw/main/releases/android/steering-ets2-v1.0.3.apk)
-- 💻 **PC Server (EXE):** [Download Latest EXE](https://github.com/hmongcodequest/steering-ets2-controller/raw/main/releases/pc/VJoyServer-v1.0.6.exe)
+- 📱 **Android App (APK):** [Download Latest APK](https://github.com/hmongcodequest/steering-ets2-controller/raw/main/releases/android/steering-ets2-v1.0.6.apk)
+- 💻 **PC Server (EXE):** [Download Latest EXE](https://github.com/hmongcodequest/steering-ets2-controller/raw/main/releases/pc/VJoyServer-v1.0.7.exe)
 
 ## Folder Structure
 - `releases/android/`: Contains the Android APK files.

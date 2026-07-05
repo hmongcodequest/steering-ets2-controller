@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.6.exe",
-  "release_notes": "Added the app logo icon to the Update Available window."
+  "version": "1.0.7",
+  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller/raw/main/releases/pc/VJoyServer-v1.0.7.exe",
+  "release_notes": "Added Ping/Pong connection latency test via Wi-Fi."
 }
